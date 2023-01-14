@@ -1,6 +1,7 @@
 package hello.repository;
 
 import hello.jdbc.domain.Member;
+import hello.jdbc.repository.MemberRepositoryV0;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
